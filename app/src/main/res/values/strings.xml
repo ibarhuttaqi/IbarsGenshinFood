@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IbarsGenshinFood</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="price">%d Mora</string>
+    <string name="add_to_cart">Add to Cart : %d Mora</string>
+    <string name="total_order">Total order : %d Mora</string>
+    <string name="effect_label">Effect: </string>
+    <string name="back">Back</string>
+    <string name="ibars_genshin_food">Ibars Genshin Food</string>
+    <string name="share_message">Hi, I have purchased %1$d menus at IbarsGenshinFood for a total of %2$d Mora. Do you want too?</string>
+    <string name="name">Ibar Huttaqi Sulthon</string>
+    <string name="email">ibarhuttaqi26@gmail.com</string>
+    <string name="profile_description">Saya adalah mahasiswa semester 7 Program Studi Teknik Informatika Fakultas Ilmu Komputer Universitas Brawijaya,saat ini saya sedang menjalani program magang di PT XL Axiata.</string>
+</resources>
