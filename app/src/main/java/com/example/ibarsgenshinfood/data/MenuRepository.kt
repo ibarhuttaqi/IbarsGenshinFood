@@ -1,5 +1,6 @@
 package com.example.ibarsgenshinfood.data
 
+import com.example.ibarsgenshinfood.model.Menu
 import com.example.ibarsgenshinfood.model.MenuDataSource
 import com.example.ibarsgenshinfood.model.OrderMenu
 import kotlinx.coroutines.flow.Flow
@@ -49,6 +50,11 @@ class MenuRepository {
                 }
             }
     }
+
+    fun searchMenus(query: String): Flow<List<OrderMenu>> {
+        return flowOf(orderMenus.filter { it.menu.name.contains(query, ignoreCase = true) })
+    }
+
 
     companion object {
         @Volatile

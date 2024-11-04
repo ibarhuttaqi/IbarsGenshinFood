@@ -12,5 +12,9 @@
     <string name="share_message">Hi, I have purchased %1$d menus at IbarsGenshinFood for a total of %2$d Mora. Do you want too?</string>
     <string name="name">Ibar Huttaqi Sulthon</string>
     <string name="email">ibarhuttaqi26@gmail.com</string>
-    <string name="profile_description">Saya adalah mahasiswa semester 7 Program Studi Teknik Informatika Fakultas Ilmu Komputer Universitas Brawijaya,saat ini saya sedang menjalani program magang di PT XL Axiata.</string>
+    <string name="profile_description">I am a 7th semester student of the Informatics Engineering Study Program, Faculty of Computer Science, Brawijaya University, currently I am undergoing an internship program at PT XL Axiata.</string>
+    <string name="search_menu">Search Menu..</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="data_not_found">Data Not Found</string>
 </resources>
